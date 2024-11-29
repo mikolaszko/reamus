@@ -1,10 +1,17 @@
 <h1 align="center">
-    reamus</br>
+    Reamus</br>
     <span style="font-size: 1.25rem">
         self-hosted CMS powered by 
         ✨<a href="https://github.com/dmmulroy/create-melange-app">create-melange-app✨</a>
     </span>
 </h1>
+
+
+### What is Reamus
+
+App is split into two modules
+- Reamus Studio (frontend)
+- Reamus Server (data processing, parsing)
 
 ### Table of Contents
 

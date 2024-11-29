@@ -1,7 +1,7 @@
 (library
- (name app)
+ (name reamus-studio)
  (modes melange)
- (libraries bindings cma_configuration components reason-react)
+ (libraries reason-react)
  (preprocess
   (pps melange.ppx reason-react-ppx)))
 
